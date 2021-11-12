@@ -1,0 +1,23 @@
+.featured-animation{
+    animation: 1s ease 0s normal none 1 fadeInLeft;
+    -webkit-animation: 1s ease 0s normal none 1 fadeInLeft;
+    -moz-animation: 1s ease 0s normal none 1 fadeInLeft;
+    -o-animation: 1s ease 0s normal none 1 fadeInLeft;
+    opacity: 1;
+}
+.featured-img{
+    float: left;
+    width: 100%;
+    position: relative;
+    cursor: pointer;
+}
+.featured-contect{
+    width: 100%;
+    right: auto;
+    text-align: center;
+    top: 20%;
+    bottom: auto;
+    position: absolute;
+    color: white;
+    overflow: hidden;
+}

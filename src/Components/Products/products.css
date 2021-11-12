@@ -1,0 +1,8 @@
+.trending-products-title{
+    display: inline-block;
+    float: none;
+    font: 500 Dosis,sans-serif;
+    position: relative;
+    text-align: center;
+    text-transform: uppercase;
+}
